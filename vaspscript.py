@@ -20,3 +20,12 @@ for files in source:
     if files('disp.yaml'):
         shutil.move(source, destination)
 
+import os
+os.system('cd /Users/andrewadams/desktop/vasp')
+
+import os
+os.system('phonopy -f disp-001/vasprun.xml disp-002/vasprun.xml')
+
+import os
+os.system('phonopy -f disp-001/vasprun.xml disp-002/vasprun.xml')
+
