@@ -1,0 +1,2 @@
+import os 
+os.system('wget -O file.tar "https://pypi.python.org/packages/4b/92/8f71a5ed02571dff17061f18231b968b855945dfb7aeced9ca0974f8ddc2/pytest-shutil-1.2.8.tar.gz#md5=8775f65835023f461c3425e3219c2bc8"')
